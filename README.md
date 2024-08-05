@@ -3,7 +3,7 @@
 
 👨🏻‍💻 I’m interested in Frontend Development(HTML,CSS,JS,ReactJS)
 
-🌱 ReactJS projects link:
+🌱 ReactJS project links:
 
    **Taskview:**
    A react app to take a note of todo tasks
