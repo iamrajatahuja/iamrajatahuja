@@ -6,7 +6,7 @@
 🌱 ReactJS project links:
 
    **Taskview:**
-   A react app to take a note of todo tasks
+   A react app to take a note of todo tasks using states and local storage
    
    https://taskview-ra.netlify.app/
 
